@@ -1,0 +1,15 @@
+skills learned so far--
+
+
+= html
+= css
+= javascript
+= bootstrap
+= jQuery
+= express
+= git 
+= github
+
+skill to be learned--
+
+= react

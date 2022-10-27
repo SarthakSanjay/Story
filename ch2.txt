@@ -1,0 +1,8 @@
+currently learning version control using git and git hub;
+
+	future goals =
+	[
+		want to work as a remote s/w developer
+		never stop learning new stack
+	]
+
