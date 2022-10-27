@@ -13,3 +13,4 @@ skills learned so far--
 skill to be learned--
 
 = react
+= next.js
